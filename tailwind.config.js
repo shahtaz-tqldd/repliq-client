@@ -8,8 +8,8 @@ export default {
     themes: [
       {
         themeRepliq: {
-          "primary": "#4C4C6D",
-          "secondary": "#1B9C85",
+          "primary": "#1B9C85",
+          "secondary": "#4C4C6D",
           "accent": "#E8F6EF",
           "neutral": "#FFE194",
           "base-100": "#ffffff",
