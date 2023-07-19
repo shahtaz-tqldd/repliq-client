@@ -1,8 +1,10 @@
+import { Toaster } from "react-hot-toast"
 
 function App() {
   return (
     <>
-      <h2>Hello world</h2>
+      <button className="btn btn-secondary">Hello</button>
+      <Toaster />
     </>
   )
 }
