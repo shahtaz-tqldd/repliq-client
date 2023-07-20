@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "250+ products",
+    "details": "Easily list and organize your books for sale or exchange.",
+    "img": "https://cdn.lordicon.com/svbmmyue.json",
+    "bg": "bg-[#9ED5C5]"
+  },
+  {
+    "id": 2,
+    "name": "Fastest delivery",
+    "details": "Browse and purchase books from other users on the platform.",
+    "img": "https://cdn.lordicon.com/weoiqraa.json",
+    "bg": "bg-[#B799FF]"
+  },
+  {
+    "id": 3,
+    "name": "24/7 online shop",
+    "details": "Promote your books and reach a larger audience by advertising them.",
+    "img": "https://cdn.lordicon.com/hyhnpiza.json",
+    "bg": "bg-[#79E0EE]"
+  },
+  {
+    "id": 4,
+    "name": "Cash on delivery",
+    "details": "Conveniently make digital payments for your book purchases.",
+    "img": "https://cdn.lordicon.com/zqxjldws.json",
+    "bg": "bg-[#FFD3A3]"
+  }
+]
