@@ -18,10 +18,10 @@ const Features = () => {
               src={img}
               target="div"
               trigger="hover"
-              colors="primary:#121331"
+              colors="primary:#1B9C85"
               style={{ width: "60px", height: "60px" }}
             ></lord-icon>
-            <h2 className='mt-5 text-xl font-bold'>{name}</h2>
+            <h2 className='mt-5 text-xl font-bold text-primary'>{name}</h2>
             <p className='mt-4 text-[#555]'>{details}</p>
           </div>
         ))}

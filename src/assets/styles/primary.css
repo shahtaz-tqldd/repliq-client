@@ -1,0 +1,8 @@
+.current-color {
+  color: #1B9C85;
+}
+
+.btn-icon:hover .current-color {
+  color: #fff;
+  transition: 0.3s;
+}
